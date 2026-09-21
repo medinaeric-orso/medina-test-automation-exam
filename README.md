@@ -1,6 +1,8 @@
 # Technical Exam for Medina, Eric
+# NOTE: I have included a sample report in playwright-report/
 
 Sample Playwright project to automate web (Cheapflights) and API (Restful Booker)
+
 
 - API tests can be found in: `api/`
 - Web tests can be found in: `web/`
