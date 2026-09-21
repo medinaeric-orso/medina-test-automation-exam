@@ -1,0 +1,16 @@
+{
+  "name": "playwright-medina-test",
+  "version": "1.0.0",
+  "description": "Sample Playwright test project for Technical Assessment",
+  "scripts": {
+    "test": "playwright test",
+    "test:web": "playwright test --project=web",
+    "test:api": "playwright test --project=api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
